@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nome": "Netflix"
+    },
+    {
+        "id": "2",
+        "nome": "HBO Max"
+    },
+    {
+        "id": "3",
+        "nome": "Disney+"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Inception",
+        "ano": 2010,
+        "plataforma": "Netflix",
+        "generos": [
+            "Sci-Fi",
+            "Action"
+        ]
+    },
+    {
+        "nome": "The Matrix",
+        "ano": 1999,
+        "plataforma": "HBO Max",
+        "generos": [
+            "Sci-Fi",
+            "Action"
+        ]
+    },
+    {
+        "nome": "Porco ",
+        "ano": "2024",
+        "plataforma": "Netflix",
+        "generos": [
+            "Horror"
+        ]
+    }
+  
+]
