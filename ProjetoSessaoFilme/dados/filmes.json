@@ -24,6 +24,13 @@
         "generos": [
             "Horror"
         ]
+    },
+    {
+        "nome": "Minions",
+        "ano": "2022",
+        "plataforma": "Netflix",
+        "generos": [
+            "Action"
+        ]
     }
-  
 ]
