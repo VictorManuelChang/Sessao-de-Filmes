@@ -18,7 +18,7 @@ Bem-vindo ao **Sistema de Sessão de Filmes**, um sistema simples que permite ca
 
 1. Clone este repositório:
 
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/VictorManuelChang/Sessao-de-Filmes.git
 
 2. Navegue até o diretório do projeto:
 
