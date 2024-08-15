@@ -22,7 +22,7 @@ Bem-vindo ao **Sistema de Sessão de Filmes**, um sistema simples que permite ca
 
 2. Navegue até o diretório do projeto:
 
-   cd Sessao-de-Filmes
+   cd ProjetoSessaoFilme
 
 3. Execute o programa:
 
@@ -32,12 +32,6 @@ Bem-vindo ao **Sistema de Sessão de Filmes**, um sistema simples que permite ca
 
 - `main.py`: Arquivo principal que contém o menu e as funções de interação com o usuário.
 - `sistema.py`: Módulo que contém as funcionalidades principais de cadastro e gerenciamento de filmes, gêneros e plataformas.
-- `README.md`: Este arquivo que explica o funcionamento do sistema.
-
-## Tecnologias Utilizadas 🛠️
-
-- **Python 3.x**: Linguagem de programação utilizada para o desenvolvimento do sistema.
-
 
 
 ## Licença 📄
